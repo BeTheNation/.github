@@ -1,8 +1,6 @@
-# 🌍 BeTheNation.Fun - Perpetual Prediction Markets for Countries
+# 🌍 BeTheNation.Fun — Perpetual Prediction Markets for Countries
 
-**BeTheNation.Fun** is a decentralized platform that enables users to speculate on the long-term economic performance of countries through perpetual prediction markets. Built on blockchain technology, the platform offers transparent, permissionless, and automated trading on country-based markets using real economic indicators.
-
-> ⚡ Built for the [Pharos Builder Base Camp Hackathon](https://pharos.xyz)
+**BeTheNation.Fun** is a decentralized platform enabling users to speculate on the long-term economic performance of countries through perpetual prediction markets. Built on the Base blockchain, it offers transparent, permissionless, and automated trading on country-based markets using real economic indicators.
 
 ---
 
@@ -70,8 +68,8 @@ BeTheNation.Fun offers:
 | Layer        | Stack / Tools                            |
 |--------------|------------------------------------------|
 | Frontend     | React.js, Tailwind CSS                   |
-| Smart Contracts | Solidity, foundry, Ethers.js          |
-| Blockchain   | Base / Pharos (for testnet & launch)     |
+| Smart Contracts | Solidity, Foundry, Ethers.js          |
+| Blockchain   | Base (for testnet & launch)              |
 | Wallet Auth  | RainbowKit, MetaMask                     |
 | Hosting      | Vercel / IPFS                            |
 
@@ -81,9 +79,8 @@ BeTheNation.Fun offers:
 
 - 🔧 GitHub: [BeTheNation Repos](https://github.com/orgs/BeTheNation/repositories)
 - 🌐 Website: [bethenation.fun](https://deploy-preview-23--splendid-kringle-e42657.netlify.app/)
-- 🛠 Hackathon: [Pharos.xyz](https://pharos.xyz)
 - 🎥 Demo Application: [YouTube Video](https://www.youtube.com/watch?v=IU8hBFeg4rI)
-- 📊 Presentation: [figma](https://www.figma.com/deck/TuHuBdAIenx2jli1vVD9TK/Slide?node-id=3-121&viewport=-3676%2C-56%2C0.56&t=JISSzZ2uydwcCkDa-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+- 📊 Presentation: [Figma](https://www.figma.com/deck/TuHuBdAIenx2jli1vVD9TK/Slide?node-id=3-121&viewport=-3676%2C-56%2C0.56&t=JISSzZ2uydwcCkDa-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ---
 
