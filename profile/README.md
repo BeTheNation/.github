@@ -78,7 +78,7 @@ BeTheNation.Fun offers:
 ## 🔗 Links
 
 - 🔧 GitHub: [BeTheNation Repos](https://github.com/orgs/BeTheNation/repositories)
-- 🌐 Website: [bethenation.fun](https://deploy-preview-23--splendid-kringle-e42657.netlify.app/)
+- 🌐 Website: [bethenation.fun](https://bethenation.netlify.app/)
 - 🎥 Demo Application: [YouTube Video](https://www.youtube.com/watch?v=IU8hBFeg4rI)
 - 📊 Presentation: [Figma](https://www.figma.com/deck/TuHuBdAIenx2jli1vVD9TK/Slide?node-id=3-121&viewport=-3676%2C-56%2C0.56&t=JISSzZ2uydwcCkDa-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
